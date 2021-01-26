@@ -1,0 +1,3 @@
+/home/jose/images/CMakeFiles/rebuild_cache.dir
+/home/jose/images/CMakeFiles/DisplayImage.dir
+/home/jose/images/CMakeFiles/edit_cache.dir

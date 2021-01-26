@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/imgs/DisplayImage.cpp
+bits/stdc++.h
+-
+fstream
+-
+string
+-
+iostream
+-
+sys/stat.h
+-
+sys/types.h
+-
+opencv2/opencv.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+chrono
+-
+ctime
+-
+
